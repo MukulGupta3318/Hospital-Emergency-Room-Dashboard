@@ -45,6 +45,3 @@
 
 ![Hospital Emergency Dashboard](./Screenshot%202025-08-05%20165349.png)
 
-<p align="center">
-  🔗 <b>Connect with me on <a href="https://www.linkedin.com/in/mukulgupta3318">LinkedIn</a></b>
-</p>
